@@ -2,7 +2,7 @@
 
 Team Members:
 - Carson Laidlaw (125429258)
-- Name (Student #)
+- Stephen Hui (125690255)
 - Name (Student #)
 
 Topic Summary:
@@ -13,3 +13,14 @@ YouTube Video:
 
 Audience Question:
 If MCP makes it easier for AI apps to access company tools and data, what’s one rule that should be required before letting an MCP server be used in a real workplace project?
+
+
+Got some thought on structure , assuming each teammate have 1 min.
+
+1. what mcp is??
+2. why MCP is important??
+3. Real-World Experience
+
+
+
+
